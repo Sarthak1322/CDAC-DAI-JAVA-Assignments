@@ -1,0 +1,16 @@
+/*
+ * Create an application for Dessert Store
+The store sells candies (per kg) cookies (per dozen)
+and ice creams per piece
+
+Develop hierarchy of desserts with claculatePrice method
+
+A cart class should have addToCart() method that will update the cart value
+when user selects a particular dessert 
+
+Develop Store class as menu driver application what will take input from user
+1. Type of dessert
+2. Quantity
+
+At the end print total count and bill
+ */
